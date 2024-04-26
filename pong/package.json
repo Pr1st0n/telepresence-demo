@@ -1,0 +1,15 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "A simple Node.js Express application for handling pong requests.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipp Shestakov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
